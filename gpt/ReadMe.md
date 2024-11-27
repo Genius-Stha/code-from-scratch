@@ -7,7 +7,6 @@ After we implement attention , masked attention mechanism from the scratch and i
 
 # Installation
 1. To run in local 
-
-        1. `` pip install torch``
-        2. ``jupyter notebook gpt.ipynb``
+   1. `` pip install torch``
+   2. ``jupyter notebook gpt.ipynb``
 
